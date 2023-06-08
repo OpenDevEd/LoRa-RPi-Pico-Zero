@@ -1,1 +1,1 @@
-# LoRa-Pico-Zero
+# LoRa Raspberry Pi Pico-Zero
